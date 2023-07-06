@@ -1,0 +1,3 @@
+### How to use
+
+Here are added components that group a few amount of atom, like small forms, a group of buttons, etc...

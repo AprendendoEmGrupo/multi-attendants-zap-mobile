@@ -1,0 +1,3 @@
+### How to use
+
+Here are added very small components, like custom text formatters, custom buttons, custom inputs, etc...
