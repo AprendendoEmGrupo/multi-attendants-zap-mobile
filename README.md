@@ -13,6 +13,7 @@ The mobile of multi attendance zap project.
 ### The project structure
 
 ```
+- assets         
 - src            -> when you put source code.
     - hooks      -> when you put your hooks.
     - contexts   -> where you put your contexts.
