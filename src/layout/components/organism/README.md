@@ -1,3 +1,0 @@
-### How to use
-
-Here are added components that group molecules, but aren't large enought to be a screen, like large forms, render list of user's cards, etc...

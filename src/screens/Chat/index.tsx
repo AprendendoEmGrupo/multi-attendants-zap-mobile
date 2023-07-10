@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "../../components/atoms/Button";
+import Button from "../../components/Button";
 import { Container, Text } from './style';
 
 export default function Chat({navigation}) {

@@ -1,6 +1,6 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import Home from "../../layout/screens/Home";
-import Chat from "../../layout/screens/Chat";
+import Home from "../../screens/Home";
+import Chat from "../../screens/Chat";
 
 const { Navigator, Screen } = createNativeStackNavigator();
 
